@@ -2,7 +2,6 @@ import time
 import os
 import pynput
 import random
-
 snake = [
 	{'x': 2, 'y':1}, 
 	{'x': 3, 'y':1}, 
